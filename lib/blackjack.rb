@@ -57,7 +57,7 @@ end
 #####################################################
 # get every test to pass before coding runner below #
 #####################################################
-# 
+#
 # def runner
 #   welcome
 #   card_total = initial_round # first round cards dealt
@@ -75,3 +75,8 @@ end
 #    reassigning the sum to the variable
 
 # This lab was more less descriptive
+
+def runner
+  welcome
+
+end
