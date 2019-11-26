@@ -78,5 +78,11 @@ end
 
 def runner
   welcome
+  card_total = initial_round # first round delt cards
+
+  until card_total > 21
+
+    display_card_total(total)
+  end
 
 end
