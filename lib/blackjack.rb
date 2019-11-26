@@ -65,7 +65,7 @@ end
 #     card_total = hit?(card_total) # 1: - each loop of the until is a round if its h you add to the card_total if its s you dont add and display the same value
 #     display_card_total(card_total)  # after each hit display the card total
 #   end
-# 
+#
 #   end_game(card_total)
 # end
 
